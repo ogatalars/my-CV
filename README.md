@@ -1,46 +1,42 @@
-# Getting Started with Create React App
+# My Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio! This project showcases my professional journey, skills, and projects. It's built with React and TypeScript and styled with a Nord theme.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Introduction](#introduction)
+- [Academic Historic](#academic-historic)
+- [Skills](#skills)
+- [Experience](#experience)
+- [Fun Facts](#fun-facts)
+- [Contact](#contact)
+- [Markdown Version](#markdown-version)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Hello, how are you? I hope you are well! My name is Felipe Ogata, but everyone calls me Ogata, which is my surname. In short, I have three academic degrees: Economics, Law, and now Systems Analysis and Development. Despite the differences, my main focus now is on Information Technology. I have been working as a developer since 2020, when I made my career change, and I intend to continue in it because I love technology so much! I work as a software engineer (full-stack developer), working with Python in the back end, using FastAPI and Flask, and in the front end, I use JavaScript, TypeScript, and React. I prefer front-end development.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Check out my projects on [GitHub](https://github.com/[your-github-username]).
 
-### `npm test`
+## Academic Historic
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Graduated in Economics from **PUC-SP** (2013)
+- Graduated in Law from **FMU** (2019)
+- Studying Systems Analysis and Development - Technologist, graduating in 2025 (**SENAC-SP**)
 
-### `npm run build`
+## Skills
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```css
+JavaScript           [##########################              ]
+TypeScript           [##########################              ]
+React                [##########################              ]
+Angular              [##########################              ]
+Python               [##########################              ]
+FastAPI              [##########                              ]
+Flask                [##########################              ]
+Next.js              [##########                              ]
+SonarCloud           [##########                              ]
+Gcloud and Kubernetes [##########                              ]
+Web Scrapping with Python [##################################  ]
+Web Development (Chrome Extensions) [##########################]
+```

@@ -23,7 +23,7 @@ const Intro: React.FC = () => {
         <span className="intro-highlight">React</span>. I prefer front-end
         development.
       </div>
-      <a href="https://github.com/seu-usuario" className="intro-link">
+      <a href="https://github.com/ogatalars" className="intro-link">
         See my projects
       </a>
     </div>
