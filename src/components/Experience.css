@@ -1,0 +1,29 @@
+.experience-container {
+  padding: 20px;
+  background-color: #2e3440;
+  color: #d8dee9;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.experience-title {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #81a1c1;
+}
+
+.experience-section {
+  margin-bottom: 20px;
+}
+
+.experience-item {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #3b4252;
+  color: #a3be8c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
