@@ -1,4 +1,4 @@
-### Markdown Version
+
 
 ```markdown
 # Felipe Ogata's Portfolio
@@ -53,5 +53,6 @@ Hello, how are you? I hope you are well! My name is Felipe Ogata, but everyone c
 
 ## Contact
 
-Feel free to reach out to me via email at [your-email@example.com].
+Feel free to reach out to me via email at ogataogara@gmail.com
+https://ogatalars.github.io/my-cv
 ```
