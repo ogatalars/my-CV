@@ -35,11 +35,14 @@ const Experience: React.FC = () => {
           extract data from courts.
         </div>
         <div className="experience-item">
-          Worked for 2.5 years as a developer, handling both web scraping and
+          Worked for 3 years as a developer, handling both web scraping and
           the engine to download data. Also analyzed problematic data in
           BigQuery and developed an internal visual platform in React and
           TypeScript for employees to download court data, with unit tests in
           Jest.js.
+        </div>
+        <div className="experience-item">
+          Worked for 1.5 months at 'PodCodar', 'part-time', doing a web application in React, using NEXT
         </div>
       </div>
     </div>
