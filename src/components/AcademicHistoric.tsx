@@ -15,6 +15,10 @@ const AcademicHistoric: React.FC = () => {
         Studying Systems Analysis and Development - Technologist, graduating in
         2025 (<code>SENAC-SP</code>)
       </p>
+      <p>
+        Pos-graduate in 'full-stack Development' at Senac
+        2024 (<code>SENAC-SP</code>)
+      </p>
     </div>
   );
 };
