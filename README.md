@@ -23,6 +23,8 @@ Check out my projects on [GitHub](https://github.com/[your-github-username]).
 - Graduated in Economics from **PUC-SP** (2013)
 - Graduated in Law from **FMU** (2019)
 - Studying Systems Analysis and Development - Technologist, graduating in 2025 (**SENAC-SP**)
+- Applying to Study for Masters in Computer's science - 'IA and Wittegeinstein';
+- 'Pós-graduate' in 'FULL-Stack dev' at SENAC
 
 ## Skills
 
